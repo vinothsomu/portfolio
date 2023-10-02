@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# Java Engineer Portfolio
 ---
-## Machine learning
+## Networking Anomaly Detection
 
 ### Fraud Detection
 
